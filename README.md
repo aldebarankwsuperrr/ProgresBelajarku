@@ -1,11 +1,6 @@
 # ProgresBelajarku
 Repository Ini Berisi Pengalaman Belajarku di Dicoding
 
-**14 Juni 2021**  
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
-  * Belajar tentang apa itu Java dan alasan menggunakannya.
-  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
-
 **15 Juli 2021**  
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
  * Belajar dasar-dasar Java, seperti struktur data, tipe data, string, operator, input output, dan array.
@@ -25,3 +20,7 @@ Belajar Kelas Git & Github. (Progres 20%)
 **22 Juni 2022**
 Belajar Kelas Git & Github. (Progres 21%)
   * Belajar commit.
+
+**24 Juni 2022**
+Belajar code riview. (Progres 4%)
+  * Pelajaran pertama.
