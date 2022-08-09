@@ -21,4 +21,7 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 **21 Juni 2022**
 Belajar Kelas Git & Github. (Progres 20%)
   * Belajar pengenalan apa itu git & github.
- 
+
+**22 Juni 2022**
+Belajar Kelas Git & Github. (Progres 21%)
+  * Belajar commit.
