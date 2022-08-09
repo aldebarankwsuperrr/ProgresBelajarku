@@ -25,3 +25,7 @@ Belajar Kelas Git & Github. (Progres 20%)
 **22 Juni 2022**
 Belajar Kelas Git & Github. (Progres 21%)
   * Belajar commit.
+
+**24 Juni 2022**
+Belajar code riview. (Progres 4%)
+  * Pelajaran pertama.
